@@ -1,0 +1,22 @@
+{
+  "name": "annand-thinking-tools",
+  "description": "Thinking-partner toolkit from Anand Vengurlekar's workshop: dual-column wisdom notes, question-storming, Paul and Elder critical-thinking review, four-stage incubation, reading with AI (Adler plus Feynman), and eleven narrative structures with a storyboard-first rule before any deck.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Serge Nassour",
+    "url": "https://github.com/sergenassour"
+  },
+  "homepage": "https://github.com/sergenassour/annand-thinking-tools",
+  "repository": "https://github.com/sergenassour/annand-thinking-tools",
+  "keywords": [
+    "thinking",
+    "critical-thinking",
+    "narrative-structures",
+    "storyboard",
+    "presentations",
+    "reading",
+    "incubation",
+    "claude-skills"
+  ],
+  "skills": "./skills"
+}
