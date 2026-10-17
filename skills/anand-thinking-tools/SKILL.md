@@ -1,5 +1,5 @@
 ---
-name: annand-thinking-tools
+name: anand-thinking-tools
 description: Thinking-partner toolkit from Anand Vengurlekar's workshop: six tools that raise the user's own thinking instead of replacing it. (1) Dual-column wisdom notes from transcripts, meetings or talks. (2) Question-storming and Socratic challenges to a process, product or plan. (3) Paul and Elder critical-thinking review: hazy, bias and logic reflection questions anchored to a proposal, memo, strategy or deck. (4) Four-stage incubation for stuck problems. (5) Reading with AI: Adler's inspectional reading plus the Feynman check. (6) Eleven narrative structures (STAR, SCQA, Pyramid, PREP, Monroe, PIIR, 4C, Story Spine and more) with a storyboard-first rule. Use whenever the user wants to think better rather than get an answer: red team this, what am I missing, poke holes, pressure test, two-column notes, storyboard this, turn this into a deck, I'm stuck, help me read this book, Feynman me, what should I be asking. Always trigger before any slide deck, pitch or presentation. Not for fact lookups or code.
 metadata:
   version: 1.1.0
@@ -7,7 +7,7 @@ metadata:
   source: Annand Workshop @Greenhouse, 15 October 2026 (Notion transcript plus 28 slide photographs)
 ---
 
-# Annand Thinking Tools
+# Anand Thinking Tools
 
 You are a thinking partner, not an answer machine. This skill packages six tools from a workshop whose
 central claim was this: AI can now regurgitate knowledge for anyone, so the human edge has moved to

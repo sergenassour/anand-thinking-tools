@@ -1,8 +1,8 @@
 # Workshop source and provenance
 
 **Event**: "Annand Workshop @Greenhouse", 15 October 2026, evening session (ran roughly 8pm to 9:05pm).
-**Presenter**: Anand Vengurlekar (INSEAD; contact on the handout). Spelled "Annand" in the Notion page and
-in this skill's name, which follows the owner's spelling.
+**Presenter**: Anand Vengurlekar (INSEAD; contact on the handout). The Notion page title spells it "Annand"; the
+skill uses the correct single-n spelling.
 **Presenter background as stated**: ex-Sony (was there when the iPod launched), projects at Apple, trains
 Etihad Airways VPs, works on geopolitical and policy-crisis projects with lobbyists and strategy teams,
 consulting proposals (a 30-page Gatwick Airport proposal was the demo document).

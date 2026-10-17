@@ -1,4 +1,4 @@
-# Annand Thinking Tools
+# Anand Thinking Tools
 
 A Claude skill that turns Claude into a thinking partner rather than an answer machine. It packages the
 six tools from Anand Vengurlekar's workshop on wisdom, learning velocity and AI (Greenhouse, 15 October
@@ -19,7 +19,7 @@ replacing it with the model's.
 
 ### On claude.ai (web, desktop app, mobile)
 
-1. Download [`dist/annand-thinking-tools.skill`](dist/annand-thinking-tools.skill).
+1. Download [`dist/anand-thinking-tools.skill`](dist/anand-thinking-tools.skill).
 2. In Claude, open **Settings, Capabilities, Skills** and choose **Upload a skill**.
 3. Pick the file. It appears in your skills list, switched on.
 
@@ -31,20 +31,20 @@ whole workspace from the same page.
 Add this repository as a plugin marketplace, then install the plugin:
 
 ```bash
-claude plugin marketplace add sergenassour/annand-thinking-tools
+claude plugin marketplace add sergenassour/anand-thinking-tools
 ```
 
 ```bash
-claude plugin install annand-thinking-tools@annand-thinking-tools
+claude plugin install anand-thinking-tools@anand-thinking-tools
 ```
 
-Or copy the folder `skills/annand-thinking-tools` into `~/.claude/skills/` (for every project) or into a
+Or copy the folder `skills/anand-thinking-tools` into `~/.claude/skills/` (for every project) or into a
 project's `.claude/skills/` (for that project only).
 
 ## Use
 
 Claude triggers the skill on its own when you ask to review a proposal, build a deck, take notes on a
-talk, read a book, or say you are stuck. To force it, say "use the Annand tools" or name the tool.
+talk, read a book, or say you are stuck. To force it, say "use the Anand tools" or name the tool.
 
 Two habits the skill enforces that are worth knowing in advance:
 
@@ -55,7 +55,7 @@ Two habits the skill enforces that are worth knowing in advance:
 ## Layout
 
 ```
-skills/annand-thinking-tools/
+skills/anand-thinking-tools/
   SKILL.md                                  the skill: stance, principles, six tools, output formats
   references/
     dual-column-notes.md                    the note-taking method and template
@@ -66,7 +66,7 @@ skills/annand-thinking-tools/
     narrative-structures.md                 eleven structures with practice questions
     workshop-source.md                      provenance and the framing stories
   evals/evals.json                          test prompts used while building
-dist/annand-thinking-tools.skill            packaged for claude.ai upload
+dist/anand-thinking-tools.skill            packaged for claude.ai upload
 ```
 
 ## Credits

@@ -1,5 +1,5 @@
 {
-  "name": "annand-thinking-tools",
+  "name": "anand-thinking-tools",
   "owner": {
     "name": "Serge Nassour",
     "url": "https://github.com/sergenassour"
@@ -7,11 +7,11 @@
   "metadata": {
     "description": "Thinking-partner toolkit built from Anand Vengurlekar's workshop on wisdom, learning velocity and AI as a thinking partner.",
     "version": "1.1.0",
-    "repository": "https://github.com/sergenassour/annand-thinking-tools"
+    "repository": "https://github.com/sergenassour/anand-thinking-tools"
   },
   "plugins": [
     {
-      "name": "annand-thinking-tools",
+      "name": "anand-thinking-tools",
       "source": "./",
       "description": "Six tools that raise your own thinking instead of replacing it: dual-column wisdom notes, question-storming, Paul and Elder critical-thinking review, four-stage incubation, reading with AI (Adler plus Feynman), and eleven narrative structures with a storyboard-first rule.",
       "version": "1.1.0",
@@ -19,7 +19,7 @@
         "name": "Serge Nassour",
         "url": "https://github.com/sergenassour"
       },
-      "homepage": "https://github.com/sergenassour/annand-thinking-tools",
+      "homepage": "https://github.com/sergenassour/anand-thinking-tools",
       "category": "productivity",
       "keywords": ["thinking", "critical-thinking", "presentations", "storyboard", "reading", "claude-skills"]
     }
