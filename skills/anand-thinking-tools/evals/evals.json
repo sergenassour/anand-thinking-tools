@@ -1,0 +1,29 @@
+{
+  "skill_name": "anand-thinking-tools",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I've got a 12-page proposal we're sending to a Qatar events client on Thursday (attached as proposal.md). Before it goes, poke holes in it. I don't want you to rewrite it, I want to know where my thinking is fuzzy.",
+      "expected_output": "Tool 3 critical-thinking review, hazy factors first, roughly ten reflection questions grouped by Paul and Elder element, each anchored to a section or page of the proposal, with a short 'where I would start' list and an offer of bias and logic passes. No verdicts, no rewrite.",
+      "files": ["proposal.md"]
+    },
+    {
+      "id": 2,
+      "prompt": "Turn this strategy memo into a deck for the board. They've got 15 minutes and the CFO is sceptical about the cost line. memo.md attached.",
+      "expected_output": "Tool 6. Does not produce slides. Recommends a structure (Pyramid Principle or SCQA, with one alternative) and why, then a storyboard only: sections mapped to the structure, slide titles, one line per slide, strongest and thinnest section. Asks for approval before any deck is built.",
+      "files": ["memo.md"]
+    },
+    {
+      "id": 3,
+      "prompt": "here's the transcript of the Adler reading workshop I went to last night (transcript.txt). help me take proper notes on it, the two column kind",
+      "expected_output": "Tool 1 dual-column wisdom notes: left column faithful to the source with markers, right column containing one prompt per row for the user's own reaction (not Claude's opinions), an offer to fill the right column by interview, and a 'what are we going to do' block left to fill from the user's answers.",
+      "files": ["transcript.txt"]
+    },
+    {
+      "id": 4,
+      "prompt": "I've been staring at our pricing problem for three days and I'm getting nowhere. Every option I come up with has a hole in it.",
+      "expected_output": "Tool 4 incubation: diagnoses the stage (likely heavy load done, refusing to detach), offers to compile the dense brief if the heavy load is incomplete, prescribes a deliberate 10 to 15 minute detachment with no phone using whatever routine already works for the user, and tells them to capture the catch verbatim and bring it back for verification. Short output.",
+      "files": []
+    }
+  ]
+}
